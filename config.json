@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#020203",
+            "lang-select-color": "#222829",
+            "bg-light": "#090a0d",
+            "welcome-bonus-bg": "#020203",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#12121b",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#9356F7",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF3D80",
+            "yellow": "#9356F7",
+            "yellow-button": "#C9FF18",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#020203",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#020203",
+            "faq-label": "#020203",
+            "bg-footer": "#020203",
+            "copyright": "#e7e7d5",
+            "starColor": "#9356F7",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3104"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3105",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Lunubet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3106",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Lunubet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Lunubet",
+                    "title": "Lunubet — Best Online Casino Australia | $500 Bonus",
+                    "description": "Play at Lunubet Australia with 1000+ pokies, live dealers & sports betting. Claim your welcome bonus up to $500 + free spins. Join now!\n",
+                    "canonical": "lunubet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3107",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "lunubet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3108"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Sportsbook",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3109",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3110",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We combine premium gaming with sports betting under one roof, offering certified games, secure AUD transactions, and 24\/7 English-speaking support. Here's what makes us the top choice for Australian players:\n",
+                    "items": [
+                        "1000+ licensed pokies & table games from NetEnt, Microgaming, Pragmatic Play",
+                        "Live casino with professional dealers streaming HD tables 24\/7",
+                        "Comprehensive sportsbook covering AFL, NRL, cricket, NBA with competitive odds",
+                        "Esports betting on DOTA 2, League of Legends, CS:GO tournaments worldwide",
+                        "Welcome bonus up to $500 AUD plus free spins with transparent wagering terms",
+                        "VIP program with personal manager, exclusive games, and regular cashback rewards"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Australian players enjoying secure gaming with SSL 256-bit encryption protecting all transactions. Our dedicated support team assists you in English 24\/7 via live chat.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Lunubet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3111",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Lunubet App",
+                    "mobileGooglePlayImageTitle": "Lunubet App",
+                    "mobileIosImageTitle": "Lunubet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Lunubet Casino",
+                        "description1": "We've established ourselves as a leading online gaming destination for Australian players, combining casino entertainment with comprehensive sports betting. Our platform features 1000+ certified games and competitive odds across global sporting events.\n",
+                        "items": [
+                            "Launched integrated casino and sportsbook platform for Australian market",
+                            "Expanded game portfolio to 1000+ titles from leading certified providers",
+                            "Introduced live casino section with professional dealers and game shows  text",
+                            "Launched VIP program with personal managers and exclusive tournament access"
+                        ],
+                        "description2": "We operate with certified gaming software ensuring fair play through RNG testing by independent auditors. Our platform uses SSL 256-bit encryption protecting 100% of financial transactions and personal data for Australian players.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3112",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our gaming portfolio with new providers and exclusive titles for Australian players. Our commitment to responsible gaming tools including deposit limits and self-exclusion remains our priority. Join us today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Gaming Portfolio for Australian Players",
+                        "description": "<h2>Comprehensive Game Selection & Sports Betting<\/h2>\n\n<p>Our platform delivers the ultimate gaming experience for Australian players by combining over 1000 licensed casino games with comprehensive sports betting coverage. From classic pokies and live dealer tables to AFL odds and esports tournaments, we offer everything under one roof. Whether you're spinning progressive jackpot slots or placing accumulator bets on NRL matches, our certified gaming software ensures fair play with RNG-tested outcomes audited by independent laboratories.<\/p>\n\n<h3>Extensive Pokies Collection<\/h3>\n\n<p>Australian players love pokies, and we deliver with hundreds of certified slot titles spanning every theme imaginable. Our pokies library features games from industry-leading providers including NetEnt, Microgaming, Pragmatic Play, and Evolution Gaming, each offering unique features, bonus rounds, and jackpot opportunities. Browse our collection using intuitive category filters or quick search functionality to find your perfect game instantly.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Classic 3-Reel Pokies:<\/strong> Traditional fruit machines with simple gameplay, perfect for players who appreciate nostalgic casino vibes. These games typically offer straightforward paylines with RTPs ranging from 94% to 97%, minimal bonus features, and quick spin cycles ideal for fast-paced sessions.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video Pokies 5-Reel:<\/strong> Modern slots featuring advanced graphics, cinematic soundtracks, and engaging storylines across themes like mythology, adventure, fantasy, and popular culture. Multi-payline configurations offer 10 to 50+ ways to win, with RTPs between 95% and 98.5%, including expanding wilds, multipliers, and free spin bonuses.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways Pokies:<\/strong> Revolutionary slot mechanics offering up to 117,649 ways to win per spin through dynamic reel configurations. These high-volatility games from providers like Big Time Gaming and Pragmatic Play feature cascading reels, unlimited win multipliers, and bonus buy options with maximum wins exceeding 20,000x your stake.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive Jackpot Pokies:<\/strong> Life-changing prize pools accumulating across our network, with jackpots regularly reaching six and seven-figure AUD amounts. Popular titles include Mega Moolah with current pools exceeding $5 million AUD, Divine Fortune, and Hall of Gods, all featuring multiple jackpot tiers and frequent smaller wins.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Branded Pokies:<\/strong> Licensed slot games featuring beloved franchises from movies, TV shows, music bands, and celebrities. These immersive experiences combine authentic audio-visual elements with innovative bonus features, offering Australian players familiar entertainment with real money winning potential.\n  <\/li>\n<\/ul>\n\n<p>Every pokie includes Demo Mode functionality, allowing Australian players to test games risk-free before wagering real AUD. This feature helps you understand game mechanics, bonus triggers, and volatility levels without spending your bankroll, ensuring you choose pokies matching your playing style and budget preferences.<\/p>\n\n<h3>Premium Table Games Selection<\/h3>\n\n<p>Table games form the cornerstone of traditional casino entertainment, and we deliver authentic experiences through certified software replicating land-based casino atmosphere. Australian players access multiple variations of classic games including blackjack, roulette, baccarat, and poker, each featuring customizable betting limits accommodating casual players and high rollers alike.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack Variations:<\/strong> Multiple rule sets including Classic Blackjack with 99.5% RTP when playing optimal strategy, Atlantic City Blackjack allowing late surrender, European Blackjack with dealer standing on soft 17, and Single Deck Blackjack offering better odds for card counters. Betting ranges from $1 to $500 AUD per hand.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Roulette Options:<\/strong> American Roulette featuring double zero (5.26% house edge), European Roulette with single zero offering 97.3% RTP, and French Roulette including La Partage rule returning half your even-money bets when zero hits. Inside bets start from $0.50 AUD, while outside bets accommodate stakes up to $1,000 AUD.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat Games:<\/strong> Traditional Punto Banco with 98.94% RTP on banker bets, Speed Baccarat for rapid gameplay completing rounds in 30 seconds, and No Commission Baccarat eliminating the standard 5% banker win fee. Minimum bets from $5 AUD, maximum stakes reaching $5,000 AUD for high rollers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Poker Variations:<\/strong> Caribbean Stud Poker with progressive jackpot pools, Three Card Poker offering simple rules and quick rounds, Casino Hold'em with 100.5% RTP including optimal strategy and side bets, and Texas Hold'em Bonus Poker. Ante bets start at $1 AUD across all variants.\n  <\/li>\n<\/ul>\n\n<h3>Immersive Live Casino Experience<\/h3>\n\n<p>Want authentic casino atmosphere from your Australian home? Our live casino section streams professional dealers in real-time HD from certified studios, combining land-based casino ambiance with online convenience. Powered by Evolution Gaming and Pragmatic Play Live, we broadcast 24\/7 across multiple tables with betting limits suitable for all bankrolls.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Roulette Tables:<\/strong> Multiple European and American roulette wheels operating simultaneously with professional croupiers spinning every 60-90 seconds. Special variants include Lightning Roulette with random multipliers up to 500x, Immersive Roulette featuring multiple camera angles and slow-motion ball drops, and Speed Roulette completing rounds in 25 seconds.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Blackjack Options:<\/strong> Unlimited seating through Infinite Blackjack allowing unlimited Australian players at single tables, classic seven-seat blackjack with side bets including Perfect Pairs and 21+3, Lightning Blackjack featuring random multipliers on winning hands, and VIP tables with $10,000 AUD maximum bets exclusively for high rollers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Baccarat Selection:<\/strong> Standard Punto Banco tables with squeeze feature building suspense as cards reveal slowly, Speed Baccarat completing rounds in 27 seconds for action-focused players, and VIP Baccarat rooms with enhanced betting limits up to $15,000 AUD per hand alongside luxurious studio environments.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Game Shows:<\/strong> Entertainment-focused experiences combining gambling with TV show elements. Dream Catcher money wheel with multipliers, Crazy Time featuring four bonus games and 20,000x maximum wins, Monopoly Live merging the board game with live casino action, Mega Ball bingo-lottery hybrid, and Deal or No Deal Live with briefcase reveals.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Poker Tables:<\/strong> Casino Hold'em with live dealers managing community cards, Three Card Poker offering progressive jackpots, Caribbean Stud Poker with bonus payouts for strong hands, and Ultimate Texas Hold'em featuring trip bonus side bets. All tables include chat functionality for Australian players to interact.\n  <\/li>\n<\/ul>\n\n<p>Every live dealer table supports mobile play through adaptive streaming technology adjusting quality based on your Australian internet connection. Chat with dealers and fellow players in English, customize camera angles and audio settings, and access detailed game statistics tracking hot and cold numbers across roulette wheels or dealer card distribution patterns.<\/p>\n\n<h3>Comprehensive Sportsbook Coverage<\/h3>\n\n<p>Beyond casino games, Australian players access extensive sports betting markets covering local and international competitions. Our sportsbook delivers competitive odds across AFL, NRL, cricket, tennis, basketball, soccer, and niche sports, with pre-match and live in-play betting options available 24\/7.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Australian Sports Focus:<\/strong> Comprehensive coverage of AFL with match winners, line betting, total points, and player performance markets across all 18 teams. NRL betting includes head-to-head odds, handicap lines, tryscorer markets, and half-time\/full-time combinations. Cricket betting spans Test matches, ODIs, T20 internationals, and Big Bash League with extensive prop bets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International Football:<\/strong> Coverage of EPL, La Liga, Serie A, Bundesliga, Champions League, and World Cup qualifiers with match result, both teams to score, correct score, and over\/under goals markets. Live betting updates odds every few seconds based on match developments with cash-out options available.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>NBA & Basketball:<\/strong> All NBA regular season and playoff games with moneyline, spread, and total points betting. Additional markets include player points, rebounds, assists props, quarter winners, and team performance specials. NBL coverage provides odds on Australian basketball league matches.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tennis Tournaments:<\/strong> Australian Open receives extensive market coverage with match winners, set betting, game handicaps, and total games over\/under across all rounds. Grand Slam coverage extends to Wimbledon, US Open, and French Open with outright winner markets available months in advance.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Esports Betting:<\/strong> Competitive gaming tournaments featuring DOTA 2 with The International championship, League of Legends World Championship, CS:GO majors, and regional competitions. Markets include match winners, map handicaps, total kills, and first blood predictions with live streaming available for major events.\n  <\/li>\n<\/ul>\n\n<h3>Special Betting Markets<\/h3>\n\n<p>Looking for unique betting opportunities beyond traditional sports? We offer odds on entertainment events, political outcomes, and cultural phenomena providing Australian players with diverse wagering options throughout the year. These markets attract recreational bettors seeking engagement with non-sporting events.<\/p>\n\n<p>Our entertainment betting includes Academy Awards with Best Picture, Best Actor, and Best Director markets opening months before ceremonies. Reality TV show outcomes like Survivor winner predictions and The Voice champion betting keep players engaged weekly. Political betting covers Australian federal elections with party winner and seat totals, alongside international elections including US presidential races and UK parliamentary votes.<\/p>\n\n<h3>Mobile Gaming Optimization<\/h3>\n\n<p>Australian players access our complete gaming portfolio through mobile browsers on iOS and Android devices without downloading apps. Our responsive platform automatically adapts to smartphone and tablet screens, delivering full functionality including pokies, live dealers, sportsbook betting, account management, and instant deposits via mobile-optimized payment methods.<\/p>\n\n<p>Mobile gaming performance matches desktop quality through adaptive streaming technology and optimized graphics rendering. Touch controls provide intuitive gameplay for spinning reels, placing chips on roulette layouts, or navigating betting slips. Live casino streams adjust quality based on your mobile data connection, ensuring smooth gameplay whether you're using 4G networks or home WiFi across Australia.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & VIP Program for Aussie Players",
+                        "description": "<h2>Secure Banking & Rewarding Promotions<\/h2>\n\n<p>Managing your bankroll should be straightforward and secure, which is why we've implemented comprehensive banking solutions tailored for Australian players. Our payment infrastructure supports instant AUD deposits through trusted methods including credit cards, e-wallets, and cryptocurrency options, while maintaining bank-grade security protocols protecting every transaction. Combined with generous bonuses, regular promotions, and our exclusive VIP program, we deliver maximum value for your gaming entertainment budget.<\/p>\n\n<h3>Deposit Methods for Australian Players<\/h3>\n\n<p>Funding your account happens instantly through multiple payment channels optimized for Australian customers. We accept all major credit and debit cards, popular e-wallet services, bank transfers, and cryptocurrency deposits, processing transactions in AUD to eliminate currency conversion fees. Our payment gateway uses SSL 256-bit encryption and PCI-DSS compliance ensuring your financial data remains protected throughout every deposit.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ccff00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Time<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Limits<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10-$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>POLi Payment<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10-$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill\/Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10-$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin\/Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">10-30 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$20-$50,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1-3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$50-$20,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10-$5,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<p>Australian players benefit from localized payment solutions including POLi Payment connecting directly to your bank account for secure instant transfers without sharing card details. E-wallet options like Skrill and Neteller provide additional privacy layers by separating casino transactions from your primary banking statements. Cryptocurrency deposits via Bitcoin, Ethereum, and Litecoin offer enhanced anonymity with higher deposit limits reaching $50,000 AUD for serious players.<\/p>\n\n<h3>Withdrawal Process & Verification<\/h3>\n\n<p>Cashing out your winnings follows a streamlined process designed for security and speed. Once you submit a withdrawal request, our finance team processes it within 24-48 hours for e-wallets, 3-5 business days for bank transfers, and up to 7 days for credit card refunds depending on your bank's processing times across Australia.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Account Verification Requirements:<\/strong> First-time withdrawals require identity verification through government-issued photo ID (Australian driver's license or passport), proof of address dated within 90 days (utility bill or bank statement), and payment method verification (photo of credit card with middle digits masked or e-wallet screenshot). This KYC process complies with anti-money laundering regulations protecting Australian players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Withdrawal Limits & Fees:<\/strong> Standard withdrawal limits range from $20 minimum to $5,000 maximum per transaction, with higher limits available for VIP members reaching $20,000 per week. We don't charge withdrawal fees for transactions above $100 AUD, though your bank or e-wallet provider may apply their own processing charges.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Pending Period & Reversals:<\/strong> Withdrawals enter a 12-hour pending period allowing cancellation if you change your mind. After this window, transactions process irreversibly. Successfully verified accounts experience faster processing with reduced pending times for subsequent withdrawals.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cryptocurrency Withdrawals:<\/strong> Bitcoin and altcoin withdrawals process fastest, typically completing within 24 hours once your transaction reaches blockchain confirmation. Crypto withdrawals bypass traditional banking delays offering Australian players the quickest access to winnings, though blockchain network fees apply based on current congestion levels.\n  <\/li>\n<\/ul>\n\n<h3>Welcome Bonus Package Breakdown<\/h3>\n\n<p>New Australian players receive our comprehensive welcome bonus package maximizing your initial deposits. This multi-tier promotion extends across your first deposits, combining match bonuses with free spins on selected pokies. Understanding the terms ensures you maximize this offer while meeting all wagering requirements within specified timeframes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>First Deposit Bonus:<\/strong> Receive 100% match bonus up to $200 AUD plus 50 free spins on featured pokies when depositing minimum $20 AUD. The bonus credits instantly to your account with 35x wagering requirement applying to both bonus amount and free spin winnings. Free spins carry $0.20 AUD value each with maximum win cap of $100 AUD from spins.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Second Deposit Bonus:<\/strong> Claim 50% match bonus up to $150 AUD on your second deposit of minimum $30 AUD. This bonus includes additional 30 free spins on different selected pokies, maintaining 35x wagering requirement. Combine this with your first deposit bonus for total potential bonus value of $350 AUD plus 80 free spins.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Third Deposit Bonus:<\/strong> Complete your welcome package with 25% match bonus up to $150 AUD plus 20 additional free spins. Minimum deposit of $50 AUD activates this final tier, bringing your total welcome bonus potential to $500 AUD and 100 free spins across three deposits.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Wagering Requirements:<\/strong> All bonus funds carry 35x wagering requirement meaning you must wager 35 times the bonus amount before converting it to withdrawable cash. Pokies contribute 100% toward wagering, table games contribute 10%, and live casino games contribute 10%. Maximum bet while wagering bonus is $5 AUD per spin or hand.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Time Limits & Restrictions:<\/strong> Complete wagering requirements within 30 days of bonus activation or remaining bonus funds and associated winnings expire. Certain pokies may be excluded from bonus play or contribute reduced percentages toward wagering. Check terms before playing to ensure eligible game selection.\n  <\/li>\n<\/ul>\n\n<h3>Ongoing Promotions & Tournaments<\/h3>\n\n<p>Beyond your welcome bonus, we maintain rotating promotional calendar keeping Australian players engaged with fresh offers weekly. These promotions include reload bonuses on subsequent deposits, cashback offers returning percentages of losses, free spin giveaways, and competitive tournaments with substantial prize pools distributed among top performers.<\/p>\n\n<p>Our weekly reload bonuses typically offer 25-50% match on deposits made during promotional periods, maintaining similar wagering requirements to welcome bonuses. Weekend cashback promotions return 10-20% of net losses calculated Monday morning, credited as bonus funds with reduced 10x wagering requirement. Monthly tournaments across selected pokies feature leaderboards tracking total wins, biggest multipliers, or wagered amounts with prize pools reaching $10,000 AUD distributed among top 100 players.<\/p>\n\n<p>Looking for interactive bonus mechanics? Our Bonus Crab game appears randomly during gameplay, allowing you to control a mechanical claw grabbing prizes including free spins, bonus cash up to $100 AUD, and casino coins exchangeable for rewards. This gamification element adds entertainment value beyond standard promotional offers, creating memorable gaming moments for Australian players.<\/p>\n\n<h3>Exclusive VIP Program Benefits<\/h3>\n\n<p>Serious players deserve recognition, which is why our VIP program rewards loyalty through tiered membership levels offering escalating privileges. Climb from Bronze through Silver, Gold, Platinum, and Diamond tiers by accumulating loyalty points through real money wagering across casino games and sports betting. Each tier unlocks enhanced benefits including increased withdrawal limits, faster processing times, birthday bonuses, and access to exclusive tournaments.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loyalty Points System:<\/strong> Earn 1 loyalty point for every $10 AUD wagered on pokies, 1 point per $20 AUD on table games, and 1 point per $50 AUD on live casino games. Sports bets contribute based on odds with minimum 1.50 qualifying. Accumulate points to progress through VIP tiers with Bronze requiring 1,000 points, Silver 5,000, Gold 15,000, Platinum 50,000, and Diamond 150,000 points.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Enhanced Withdrawal Limits:<\/strong> VIP members enjoy increased withdrawal limits starting at $7,500 per week for Silver tier, $15,000 for Gold tier, $30,000 for Platinum tier, and unlimited withdrawals for Diamond tier members. Processing times reduce with Gold tier experiencing 24-hour processing, Platinum 12 hours, and Diamond VIPs receiving same-day withdrawals.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Personal VIP Manager:<\/strong> Platinum and Diamond members receive dedicated account manager providing personalized service including custom bonus packages, exclusive tournament invitations, priority customer support via direct phone line and email, and tailored promotional offers matching your gaming preferences and betting patterns.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Regular Cashback Rewards:<\/strong> All VIP tiers receive monthly cashback calculated on net losses with Bronze receiving 5%, Silver 8%, Gold 10%, Platinum 12%, and Diamond 15% cashback credited as withdrawable funds without wagering requirements. This provides safety net for Australian players experiencing unlucky streaks.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Exclusive Game Access:<\/strong> Higher VIP tiers unlock access to exclusive pokies and live casino tables unavailable to standard members. These games often feature higher RTPs, larger betting limits, and unique bonus features designed specifically for high-volume players seeking premium gaming experiences.\n  <\/li>\n<\/ul>\n\n<h3>Responsible Gaming Tools<\/h3>\n\n<p>We're committed to promoting responsible gaming practices among Australian players through comprehensive tools controlling your gambling behavior. Our platform includes deposit limits restricting daily, weekly, or monthly deposit amounts, session time reminders alerting you after specified playing durations, and self-exclusion options temporarily or permanently closing your account if gambling becomes problematic.<\/p>\n\n<p>Set deposit limits through your account settings, choosing amounts appropriate for your entertainment budget. These limits prevent impulsive deposits during losing sessions, encouraging responsible bankroll management. Reality check reminders appear after continuous play periods you define, displaying time elapsed and net win\/loss statistics helping maintain awareness of your gambling activity.<\/p>\n\n<p>Should you need a break, temporary self-exclusion locks your account for periods ranging from 24 hours to 6 months, preventing login access during cooling-off periods. Permanent self-exclusion closes your account indefinitely with no option for reopening, suitable for Australian players recognizing gambling addiction concerns. We partner with responsible gaming organizations including Gambling Help Online providing free counseling services to Australian residents seeking support.<\/p>\n\n<h3>Customer Support Availability<\/h3>\n\n<p>Questions or concerns arise occasionally, which is why our support team operates 24\/7 assisting Australian players in English through multiple contact channels. Live chat provides instant responses averaging under 2 minutes, email support responds within 6 hours, while our comprehensive FAQ section covers common queries about accounts, bonuses, payments, and gameplay.<\/p>\n\n<p>Access live chat directly from our website footer clicking the support icon opening conversation window with trained agents. Email support at support@lunubet.com handles detailed inquiries requiring documentation review like bonus disputes or withdrawal verification questions. Our FAQ database organizes answers by categories including registration, deposits, games, promotions, and technical issues, providing self-service solutions for immediate assistance without waiting for agent availability.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I register an account at Lunubet Casino?",
+                            "answer": "Click the \"Register\" button and complete the form with your email, password, full name, date of birth, and Australian address. Verify your email through the confirmation link sent instantly. Deposit minimum $10 AUD via any supported payment method to start playing. Our 24\/7 live chat assists with registration questions anytime.\n"
+                        },
+                        {
+                            "title": "What welcome bonus can Australian players claim?",
+                            "answer": "New players receive up to $500 AUD bonus across three deposits plus 100 free spins. First deposit gets 100% match up to $200 AUD plus 50 spins, second deposit 50% up to $150 plus 30 spins, third deposit 25% up to $150 plus 20 spins. Wagering requirement is 35x bonus amount within 30 days.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to Australian bank accounts?",
+                            "answer": "E-wallet withdrawals to Skrill or Neteller process within 24-48 hours after verification. Bank transfers take 3-5 business days depending on your Australian bank's processing speed. Cryptocurrency withdrawals complete within 24 hours. First withdrawal requires identity verification via driver's license or passport.\n"
+                        },
+                        {
+                            "title": "Can I play casino games on my mobile phone?",
+                            "answer": "Yes, our entire gaming portfolio works on iOS and Android mobile browsers without downloading apps. Access 1000+ pokies, live dealer tables, and sportsbook through responsive mobile site. Touch controls optimize gameplay while adaptive streaming ensures smooth performance on 4G networks across Australia.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept Visa, Mastercard, POLi Payment, Skrill, Neteller, PayPal, bank transfers, Bitcoin, Ethereum, and Litecoin. All transactions process in AUD eliminating conversion fees. Minimum deposit is $10 AUD for cards and e-wallets, $20 for crypto, $50 for bank transfers. Deposits credit instantly except bank transfers taking 1-3 days.\n"
+                        },
+                        {
+                            "title": "How does the VIP program work at Lunubet?",
+                            "answer": "Earn loyalty points wagering real money: 1 point per $10 AUD on pokies, 1 per $20 on tables. Progress through Bronze, Silver, Gold, Platinum, and Diamond tiers unlocking benefits like higher withdrawal limits up to unlimited for Diamond, faster processing, personal VIP manager, monthly cashback up to 15%, and exclusive games access.\n"
+                        },
+                        {
+                            "title": "Is Lunubet safe and secure for real money gaming?",
+                            "answer": "We use SSL 256-bit encryption protecting 100% of transactions and personal data. Our gaming software undergoes RNG testing by independent auditors ensuring fair play. PCI-DSS compliance secures payment processing. Responsible gaming tools include deposit limits, session reminders, and self-exclusion options for Australian player protection.\n"
+                        },
+                        {
+                            "title": "What sports can I bet on at Lunubet Sportsbook?",
+                            "answer": "Bet on AFL, NRL, cricket including Big Bash League, tennis Grand Slams, NBA, international football, and esports like DOTA 2 and League of Legends. We offer pre-match and live in-play betting with competitive odds. Special markets cover entertainment events, political elections, and reality TV outcomes beyond traditional sports.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
